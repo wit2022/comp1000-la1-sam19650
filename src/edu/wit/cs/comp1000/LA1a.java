@@ -17,7 +17,7 @@ public class LA1a {
 	 * @param args command-line arguments (ignored)
 	 */
 	public static void main(String[] args) {
-
+		System.out.println("Hello World");
 	}
 
 }
